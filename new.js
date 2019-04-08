@@ -1,1 +1,1 @@
-console.log(hi, this is a bot!);
+console.log("Hi, this is a bot!");
